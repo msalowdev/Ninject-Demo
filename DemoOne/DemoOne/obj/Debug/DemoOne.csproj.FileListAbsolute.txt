@@ -1,0 +1,1 @@
+C:\Repo\Local\Ninject Demos\DemoOne\DemoOne\bin\Debug\DemoOne.exe.config

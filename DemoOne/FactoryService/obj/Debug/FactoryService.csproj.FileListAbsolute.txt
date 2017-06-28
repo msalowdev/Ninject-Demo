@@ -1,0 +1,7 @@
+C:\Repo\Local\Ninject Demos\DemoOne\FactoryService\bin\Debug\FactoryService.dll
+C:\Repo\Local\Ninject Demos\DemoOne\FactoryService\bin\Debug\FactoryService.pdb
+C:\Repo\Local\Ninject Demos\DemoOne\FactoryService\bin\Debug\Dal.dll
+C:\Repo\Local\Ninject Demos\DemoOne\FactoryService\bin\Debug\Dal.pdb
+C:\Repo\Local\Ninject Demos\DemoOne\FactoryService\obj\Debug\FactoryService.csprojResolveAssemblyReference.cache
+C:\Repo\Local\Ninject Demos\DemoOne\FactoryService\obj\Debug\FactoryService.dll
+C:\Repo\Local\Ninject Demos\DemoOne\FactoryService\obj\Debug\FactoryService.pdb

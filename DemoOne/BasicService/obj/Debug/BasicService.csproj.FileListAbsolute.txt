@@ -1,0 +1,7 @@
+C:\Repo\Local\Ninject Demos\DemoOne\BasicService\bin\Debug\BasicService.dll
+C:\Repo\Local\Ninject Demos\DemoOne\BasicService\bin\Debug\BasicService.pdb
+C:\Repo\Local\Ninject Demos\DemoOne\BasicService\bin\Debug\Dal.dll
+C:\Repo\Local\Ninject Demos\DemoOne\BasicService\bin\Debug\Dal.pdb
+C:\Repo\Local\Ninject Demos\DemoOne\BasicService\obj\Debug\BasicService.csprojResolveAssemblyReference.cache
+C:\Repo\Local\Ninject Demos\DemoOne\BasicService\obj\Debug\BasicService.dll
+C:\Repo\Local\Ninject Demos\DemoOne\BasicService\obj\Debug\BasicService.pdb

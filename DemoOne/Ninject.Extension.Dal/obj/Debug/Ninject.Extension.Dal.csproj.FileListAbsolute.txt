@@ -1,0 +1,9 @@
+C:\Repo\Local\Ninject Demos\DemoOne\Ninject.Extension.Dal\bin\Debug\Ninject.Extension.Dal.dll
+C:\Repo\Local\Ninject Demos\DemoOne\Ninject.Extension.Dal\bin\Debug\Ninject.Extension.Dal.pdb
+C:\Repo\Local\Ninject Demos\DemoOne\Ninject.Extension.Dal\bin\Debug\Dal.dll
+C:\Repo\Local\Ninject Demos\DemoOne\Ninject.Extension.Dal\bin\Debug\Ninject.dll
+C:\Repo\Local\Ninject Demos\DemoOne\Ninject.Extension.Dal\bin\Debug\Dal.pdb
+C:\Repo\Local\Ninject Demos\DemoOne\Ninject.Extension.Dal\bin\Debug\Ninject.xml
+C:\Repo\Local\Ninject Demos\DemoOne\Ninject.Extension.Dal\obj\Debug\Ninject.Extension.Dal.csprojResolveAssemblyReference.cache
+C:\Repo\Local\Ninject Demos\DemoOne\Ninject.Extension.Dal\obj\Debug\Ninject.Extension.Dal.dll
+C:\Repo\Local\Ninject Demos\DemoOne\Ninject.Extension.Dal\obj\Debug\Ninject.Extension.Dal.pdb

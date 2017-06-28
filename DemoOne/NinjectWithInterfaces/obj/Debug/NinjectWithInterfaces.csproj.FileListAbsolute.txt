@@ -1,0 +1,9 @@
+C:\Repo\Local\Ninject Demos\DemoOne\NinjectWithInterfaces\bin\Debug\NinjectWithInterfaces.dll
+C:\Repo\Local\Ninject Demos\DemoOne\NinjectWithInterfaces\bin\Debug\NinjectWithInterfaces.pdb
+C:\Repo\Local\Ninject Demos\DemoOne\NinjectWithInterfaces\bin\Debug\Dal.dll
+C:\Repo\Local\Ninject Demos\DemoOne\NinjectWithInterfaces\bin\Debug\Ninject.dll
+C:\Repo\Local\Ninject Demos\DemoOne\NinjectWithInterfaces\bin\Debug\Dal.pdb
+C:\Repo\Local\Ninject Demos\DemoOne\NinjectWithInterfaces\bin\Debug\Ninject.xml
+C:\Repo\Local\Ninject Demos\DemoOne\NinjectWithInterfaces\obj\Debug\NinjectWithInterfaces.csprojResolveAssemblyReference.cache
+C:\Repo\Local\Ninject Demos\DemoOne\NinjectWithInterfaces\obj\Debug\NinjectWithInterfaces.dll
+C:\Repo\Local\Ninject Demos\DemoOne\NinjectWithInterfaces\obj\Debug\NinjectWithInterfaces.pdb

@@ -1,0 +1,5 @@
+C:\Repo\Local\Ninject Demos\DemoOne\Dal\bin\Debug\Dal.dll
+C:\Repo\Local\Ninject Demos\DemoOne\Dal\bin\Debug\Dal.pdb
+C:\Repo\Local\Ninject Demos\DemoOne\Dal\obj\Debug\Dal.csprojResolveAssemblyReference.cache
+C:\Repo\Local\Ninject Demos\DemoOne\Dal\obj\Debug\Dal.dll
+C:\Repo\Local\Ninject Demos\DemoOne\Dal\obj\Debug\Dal.pdb

@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{644DB34C-EC24-41EF-9799-CC60BC2B6BA2}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>App</RootNamespace>
+    <AssemblyName>App</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Ninject, Version=3.2.0.0, Culture=neutral, PublicKeyToken=c7192dc5380945e7, processorArchitecture=MSIL">
+      <HintPath>..\packages\Ninject.3.2.2.0\lib\net45-full\Ninject.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="IoC\AppModule.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BasicNinjectUse\BasicNinjectUse.csproj">
+      <Project>{4efcfd6f-8f94-45f1-a05f-708f7e9640df}</Project>
+      <Name>BasicNinjectUse</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\BasicService\BasicService.csproj">
+      <Project>{dcdc4680-63dc-4152-9340-c8543b47dbbc}</Project>
+      <Name>BasicService</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Dal\Dal.csproj">
+      <Project>{a48c9b6c-bdf6-4b2f-8286-aeb1398a8e50}</Project>
+      <Name>Dal</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\FactoryService\FactoryService.csproj">
+      <Project>{ff4d8150-6967-408e-b907-4d48dbe5bc30}</Project>
+      <Name>FactoryService</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Ninject.Extension.Dal\Ninject.Extensions.Dal.csproj">
+      <Project>{4ae111eb-345a-4828-8ec8-5f006aa878e2}</Project>
+      <Name>Ninject.Extensions.Dal</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Ninject.Extensions.Service\Ninject.Extensions.Service.csproj">
+      <Project>{8b7e1cb7-ac22-4d89-a301-2b17b08e91f6}</Project>
+      <Name>Ninject.Extensions.Service</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\NinjectWithDI\NinjectWithDI.csproj">
+      <Project>{da826978-ab90-451f-8ca8-fea46b391705}</Project>
+      <Name>NinjectWithDI</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\NinjectWithInterfaces\NinjectWithInterfaces.csproj">
+      <Project>{6dedd8ac-e298-4f68-9313-2a695198a2a1}</Project>
+      <Name>NinjectWithInterfaces</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
