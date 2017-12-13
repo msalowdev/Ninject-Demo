@@ -41,8 +41,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Basic\BasicDataService.cs" />
+    <Compile Include="DBConfig.cs" />
     <Compile Include="Interface\IDataService.cs" />
     <Compile Include="Interface\InterfaceDataService.cs" />
+    <Compile Include="Interface\MockDataService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

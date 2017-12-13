@@ -8,6 +8,14 @@ namespace Dal.Interface
 {
     public class InterfaceDataService: IDataService
     {
+        private readonly DBConfig _config;
+
+        public InterfaceDataService(DBConfig config)
+        {
+            if (config == null) throw new ArgumentNullException(nameof(config));
+            _config = config;
+        }
+
         public List<Guid> GetIds()
         {
             var list = new List<Guid>();

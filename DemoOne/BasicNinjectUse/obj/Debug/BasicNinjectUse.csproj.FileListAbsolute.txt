@@ -7,3 +7,12 @@ C:\Repo\Local\Ninject Demos\DemoOne\BasicNinjectUse\bin\Debug\Ninject.xml
 C:\Repo\Local\Ninject Demos\DemoOne\BasicNinjectUse\obj\Debug\BasicNinjectUse.csprojResolveAssemblyReference.cache
 C:\Repo\Local\Ninject Demos\DemoOne\BasicNinjectUse\obj\Debug\BasicNinjectUse.dll
 C:\Repo\Local\Ninject Demos\DemoOne\BasicNinjectUse\obj\Debug\BasicNinjectUse.pdb
+C:\Repos\GitHub\Ninject-Demo\DemoOne\BasicNinjectUse\bin\Debug\BasicNinjectUse.dll
+C:\Repos\GitHub\Ninject-Demo\DemoOne\BasicNinjectUse\bin\Debug\BasicNinjectUse.pdb
+C:\Repos\GitHub\Ninject-Demo\DemoOne\BasicNinjectUse\bin\Debug\Dal.dll
+C:\Repos\GitHub\Ninject-Demo\DemoOne\BasicNinjectUse\bin\Debug\Ninject.dll
+C:\Repos\GitHub\Ninject-Demo\DemoOne\BasicNinjectUse\bin\Debug\Dal.pdb
+C:\Repos\GitHub\Ninject-Demo\DemoOne\BasicNinjectUse\bin\Debug\Ninject.xml
+C:\Repos\GitHub\Ninject-Demo\DemoOne\BasicNinjectUse\obj\Debug\BasicNinjectUse.csprojResolveAssemblyReference.cache
+C:\Repos\GitHub\Ninject-Demo\DemoOne\BasicNinjectUse\obj\Debug\BasicNinjectUse.dll
+C:\Repos\GitHub\Ninject-Demo\DemoOne\BasicNinjectUse\obj\Debug\BasicNinjectUse.pdb

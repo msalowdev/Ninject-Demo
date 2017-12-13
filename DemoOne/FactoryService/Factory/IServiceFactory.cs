@@ -10,5 +10,6 @@ namespace FactoryService.Factory
     public interface IServiceFactory
     {
         T Create<T>() where T : IService;
+
     }
 }

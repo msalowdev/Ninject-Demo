@@ -5,3 +5,10 @@ C:\Repo\Local\Ninject Demos\DemoOne\NinjectWithDI\bin\Debug\Dal.pdb
 C:\Repo\Local\Ninject Demos\DemoOne\NinjectWithDI\obj\Debug\NinjectWithDI.csprojResolveAssemblyReference.cache
 C:\Repo\Local\Ninject Demos\DemoOne\NinjectWithDI\obj\Debug\NinjectWithDI.dll
 C:\Repo\Local\Ninject Demos\DemoOne\NinjectWithDI\obj\Debug\NinjectWithDI.pdb
+C:\Repos\GitHub\Ninject-Demo\DemoOne\NinjectWithDI\bin\Debug\NinjectWithDI.dll
+C:\Repos\GitHub\Ninject-Demo\DemoOne\NinjectWithDI\bin\Debug\NinjectWithDI.pdb
+C:\Repos\GitHub\Ninject-Demo\DemoOne\NinjectWithDI\bin\Debug\Dal.dll
+C:\Repos\GitHub\Ninject-Demo\DemoOne\NinjectWithDI\bin\Debug\Dal.pdb
+C:\Repos\GitHub\Ninject-Demo\DemoOne\NinjectWithDI\obj\Debug\NinjectWithDI.csprojResolveAssemblyReference.cache
+C:\Repos\GitHub\Ninject-Demo\DemoOne\NinjectWithDI\obj\Debug\NinjectWithDI.dll
+C:\Repos\GitHub\Ninject-Demo\DemoOne\NinjectWithDI\obj\Debug\NinjectWithDI.pdb

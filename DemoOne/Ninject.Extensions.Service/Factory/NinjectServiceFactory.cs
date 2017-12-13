@@ -22,5 +22,9 @@ namespace Ninject.Extensions.Service.Factory
         {
             return _kernel.Get<T>();
         }
+
+        public void Run<T>(T step) where T : IService
+        {
+        }
     }
 }

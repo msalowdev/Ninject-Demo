@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using App.IoC;
 using BasicNinjectUse;
+using Dal;
 using FactoryService;
 using FactoryService.Factory;
 using FactoryService.Services;
@@ -22,15 +23,15 @@ namespace App
             //BasicNinject();
             //NinjectWithInterface();
             //DependencyInjection();
-            //DIWithExtensionModule();
-            Factory();
+            DIWithExtensionModule();
+            //Factory();
             Console.WriteLine("Done!!!!");
             Console.ReadLine();
         }
 
         static void BasicService()
         {
-            var service = new BasicService.BasicService();
+            var service = new BasicService.BasicService(new DBConfig());
 
             Console.WriteLine($"Count {service.HowMany()}");
             Console.WriteLine("Ids:");

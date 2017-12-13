@@ -22,3 +22,27 @@ C:\Repo\Local\Ninject Demos\DemoOne\App\bin\Debug\FactoryService.dll
 C:\Repo\Local\Ninject Demos\DemoOne\App\bin\Debug\Ninject.Extensions.Service.dll
 C:\Repo\Local\Ninject Demos\DemoOne\App\bin\Debug\FactoryService.pdb
 C:\Repo\Local\Ninject Demos\DemoOne\App\bin\Debug\Ninject.Extensions.Service.pdb
+C:\Repos\GitHub\Ninject-Demo\DemoOne\App\bin\Debug\App.exe.config
+C:\Repos\GitHub\Ninject-Demo\DemoOne\App\obj\Debug\App.exe
+C:\Repos\GitHub\Ninject-Demo\DemoOne\App\obj\Debug\App.pdb
+C:\Repos\GitHub\Ninject-Demo\DemoOne\App\bin\Debug\App.exe
+C:\Repos\GitHub\Ninject-Demo\DemoOne\App\bin\Debug\App.pdb
+C:\Repos\GitHub\Ninject-Demo\DemoOne\App\bin\Debug\BasicNinjectUse.dll
+C:\Repos\GitHub\Ninject-Demo\DemoOne\App\bin\Debug\BasicService.dll
+C:\Repos\GitHub\Ninject-Demo\DemoOne\App\bin\Debug\Dal.dll
+C:\Repos\GitHub\Ninject-Demo\DemoOne\App\bin\Debug\FactoryService.dll
+C:\Repos\GitHub\Ninject-Demo\DemoOne\App\bin\Debug\Ninject.dll
+C:\Repos\GitHub\Ninject-Demo\DemoOne\App\bin\Debug\NinjectWithDI.dll
+C:\Repos\GitHub\Ninject-Demo\DemoOne\App\bin\Debug\NinjectWithInterfaces.dll
+C:\Repos\GitHub\Ninject-Demo\DemoOne\App\bin\Debug\BasicNinjectUse.pdb
+C:\Repos\GitHub\Ninject-Demo\DemoOne\App\bin\Debug\BasicService.pdb
+C:\Repos\GitHub\Ninject-Demo\DemoOne\App\bin\Debug\Dal.pdb
+C:\Repos\GitHub\Ninject-Demo\DemoOne\App\bin\Debug\FactoryService.pdb
+C:\Repos\GitHub\Ninject-Demo\DemoOne\App\bin\Debug\NinjectWithDI.pdb
+C:\Repos\GitHub\Ninject-Demo\DemoOne\App\bin\Debug\NinjectWithInterfaces.pdb
+C:\Repos\GitHub\Ninject-Demo\DemoOne\App\bin\Debug\Ninject.xml
+C:\Repos\GitHub\Ninject-Demo\DemoOne\App\obj\Debug\App.csprojResolveAssemblyReference.cache
+C:\Repos\GitHub\Ninject-Demo\DemoOne\App\bin\Debug\Ninject.Extensions.Dal.dll
+C:\Repos\GitHub\Ninject-Demo\DemoOne\App\bin\Debug\Ninject.Extensions.Service.dll
+C:\Repos\GitHub\Ninject-Demo\DemoOne\App\bin\Debug\Ninject.Extensions.Dal.pdb
+C:\Repos\GitHub\Ninject-Demo\DemoOne\App\bin\Debug\Ninject.Extensions.Service.pdb

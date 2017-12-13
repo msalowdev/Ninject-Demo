@@ -8,11 +8,12 @@ using Ninject.Modules;
 
 namespace App.IoC
 {
+
     public class AppModule : NinjectModule
     {
         public override void Load()
         {
-            Kernel.Bind<IDataService>().To<InterfaceDataService>();
+            //Kernel.Bind<IDataService>().To<InterfaceDataService>();
         }
     }
 }

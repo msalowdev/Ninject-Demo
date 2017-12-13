@@ -8,6 +8,14 @@ namespace Dal.DataService
 {
     public class BasicDataService
     {
+        private readonly DBConfig _config;
+
+        public BasicDataService(DBConfig config)
+        {
+            if (config == null) throw new ArgumentNullException(nameof(config));
+            _config = config;
+        }
+
         public List<Guid> GetIds()
         {
 
